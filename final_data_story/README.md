@@ -1,10 +1,11 @@
-## Blog post of your data story for COMM318 Group Project
+## Blog post an of your data story and creative output for COMM318 Group Data Project
 
-* This folder should contain the files that contain the output of all your data analysis. 
+* This folder should contain the files that contain the outputs of all your data analysis. 
 
-* You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks). 
+1. You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks).
+2. You creative output that presents you data story/findings in an engaging way. This could be a video, poster, web application, data dashboard, board game, song, etc, etc.
 
-* Update this README file to describe the presentation.
+* Update this README file to describe the content.
 
 
 
