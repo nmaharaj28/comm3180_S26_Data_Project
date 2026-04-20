@@ -20,3 +20,7 @@
 
 
 * Update this README file to describe the presentations.
+
+#### Initial Presentation
+
+Our initial presentation has been added to this folder under the title "Demographics of E.G.O.T. Winners." In this presentation, we outlined our research questions, data sources, and planned analyses.
