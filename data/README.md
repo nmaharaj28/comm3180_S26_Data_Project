@@ -56,6 +56,7 @@ Key Fields:
 Notes:
   - Using Claude, we brought the winners and nominees from the 2020s into the dataset containing demographic information
   - Then, using an Anthropic AI API, Claude searched for and filled in the gender- and race- related information into this new spreadsheet
-  - A sample of X number of rows filled in by Claude will be hand-checked for accuracy
+  - Middle Eastern individuals are classified as White
+  - ** A sample of X number of rows filled in by Claude will be hand-checked for accuracy
     
     

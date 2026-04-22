@@ -10490,7 +10490,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2020,2021,93,SHORT FILM (Animated),Male,Gísli Darri Halldórsson and Arnar Gunnarsson,White,Yes-People,FALSE
 2020,2021,93,SHORT FILM (Live Action),Male,Doug Roland and Susan Ruzenski,White,Feeling Through,FALSE
 2020,2021,93,SHORT FILM (Live Action),Female,Elvira Lind and Sofia Sondervan,White,The Letter Room,FALSE
-2020,2021,93,SHORT FILM (Live Action),Female,Farah Nabulsi and Ossama Bawardi,Middle Eastern,The Present,FALSE
+2020,2021,93,SHORT FILM (Live Action),Female,Farah Nabulsi and Ossama Bawardi,White,The Present,FALSE
 2020,2021,93,SHORT FILM (Live Action),Male,Travon Free and Martin Desmond Roe,Black,Two Distant Strangers,TRUE
 2020,2021,93,SHORT FILM (Live Action),Male,Tomer Shushan and Shira Hochman,White,White Eye,FALSE
 2020,2021,93,SOUND MIXING,Male,"Warren Shaw, Michael Minkler, Beau Borders and David Wyman",White,Greyhound,FALSE
@@ -10563,7 +10563,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2021,2022,94,DOCUMENTARY (Short Subject),Male,Matt Ogens and Geoff McLean,White,Audible,FALSE
 2021,2022,94,DOCUMENTARY (Short Subject),Male,Pedro Kos and Jon Shenk,White,Lead Me Home,FALSE
 2021,2022,94,DOCUMENTARY (Short Subject),Male,Ben Proudfoot,White,The Queen of Basketball,TRUE
-2021,2022,94,DOCUMENTARY (Short Subject),Female,Elizabeth Mirzaei and Gulistan Mirzaei,Middle Eastern,Three Songs for Benazir,FALSE
+2021,2022,94,DOCUMENTARY (Short Subject),Female,Elizabeth Mirzaei and Gulistan Mirzaei,White,Three Songs for Benazir,FALSE
 2021,2022,94,DOCUMENTARY (Short Subject),Male,Jay Rosenblatt,White,When We Were Bullies,FALSE
 2021,2022,94,FILM EDITING,Male,Hank Corwin,White,Don't Look Up,FALSE
 2021,2022,94,FILM EDITING,Male,Joe Walker,White,Dune,TRUE
@@ -10738,7 +10738,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2022,2023,95,SHORT FILM (Live Action),Male,Anders Walter and Rebecca Pruzan,White,Ivalu,FALSE
 2022,2023,95,SHORT FILM (Live Action),Female,Alice Rohrwacher and Alfonso Cuarón,White,Le Pupille,FALSE
 2022,2023,95,SHORT FILM (Live Action),Male,Eirik Tveiten and Gaute Lid Larssen,White,Night Ride,FALSE
-2022,2023,95,SHORT FILM (Live Action),Male,Cyrus Neshvad,Middle Eastern,The Red Suitcase,FALSE
+2022,2023,95,SHORT FILM (Live Action),Male,Cyrus Neshvad,White,The Red Suitcase,FALSE
 2022,2023,95,SOUND MIXING,Male,"Viktor Prášil, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte",White,All Quiet on the Western Front,FALSE
 2022,2023,95,SOUND MIXING,Male,"Julian Howarth, Gwendolyn Yates Whittle, Dick Bernstein, Christopher Boyes, Gary Summers and Michael Hedges",White,Avatar: The Way of Water,FALSE
 2022,2023,95,SOUND MIXING,Male,"Stuart Wilson, William Files, Douglas Murray and Andy Nelson",White,The Batman,FALSE
@@ -10814,7 +10814,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2023,2024,96,DIRECTING,Male,Jonathan Glazer,White,The Zone of Interest,FALSE
 2023,2024,96,DOCUMENTARY (Feature),Male,"Moses Bwayo, Christopher Sharp and John Battsek",Black,Bobi Wine: The People's President,FALSE
 2023,2024,96,DOCUMENTARY (Feature),Female,Maite Alberdi,Hispanic,The Eternal Memory,FALSE
-2023,2024,96,DOCUMENTARY (Feature),Female,Kaouther Ben Hania and Nadim Cheikhrouha,Middle Eastern,Four Daughters,FALSE
+2023,2024,96,DOCUMENTARY (Feature),Female,Kaouther Ben Hania and Nadim Cheikhrouha,White,Four Daughters,FALSE
 2023,2024,96,DOCUMENTARY (Feature),Female,"Nisha Pahuja, Cornelia Principe and David Oppenheim",Asian,To Kill a Tiger,FALSE
 2023,2024,96,DOCUMENTARY (Feature),Male,"Mstyslav Chernov, Michelle Mizner and Raney Aronson-Rath",White,20 Days in Mariupol,TRUE
 2023,2024,96,DOCUMENTARY (Short Subject),Female,Sheila Nevins and Trish Adlesic,White,The ABCs of Book Banning,FALSE
@@ -10864,7 +10864,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2023,2024,96,ART DIRECTION,Male,Production Design: James Price and Shona Heath; Set Decoration: Zsuzsa Mihalek,White,Poor Things,TRUE
 2023,2024,96,SHORT FILM (Animated),Male,Tal Kantor and Amit R. Gicelter,White,Letter to a Pig,FALSE
 2023,2024,96,SHORT FILM (Animated),Female,Jerusha Hess and Jared Hess,White,Ninety-Five Senses,FALSE
-2023,2024,96,SHORT FILM (Animated),Female,Yegane Moghaddam,Middle Eastern,Our Uniform,FALSE
+2023,2024,96,SHORT FILM (Animated),Female,Yegane Moghaddam,White,Our Uniform,FALSE
 2023,2024,96,SHORT FILM (Animated),Female,Stéphanie Clément and Marc Rius,White,Pachyderme,FALSE
 2023,2024,96,SHORT FILM (Animated),Male,Dave Mullins and Brad Booker,White,WAR IS OVER! Inspired by the Music of John & Yoko,TRUE
 2023,2024,96,SHORT FILM (Live Action),Male,Misan Harriman and Nicky Bentham,Black,The After,FALSE
@@ -10938,7 +10938,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2024,2025,97,ANIMATED FEATURE FILM,Male,"Nick Park, Merlin Crossingham and Richard Beek",White,Wallace & Gromit: Vengeance Most Fowl,FALSE
 2024,2025,97,ANIMATED FEATURE FILM,Male,Chris Sanders and Jeff Hermann,White,The Wild Robot,FALSE
 2024,2025,97,SHORT FILM (Animated),Male,Nicolas Keppens and Brecht Van Elslande,White,Beautiful Men,FALSE
-2024,2025,97,SHORT FILM (Animated),Female,Shirin Sohani and Hossein Molayemi,Middle Eastern,In the Shadow of the Cypress,TRUE
+2024,2025,97,SHORT FILM (Animated),Female,Shirin Sohani and Hossein Molayemi,White,In the Shadow of the Cypress,TRUE
 2024,2025,97,SHORT FILM (Animated),Male,Daisuke Nishio and Takashi Washio,Asian,Magic Candies,FALSE
 2024,2025,97,SHORT FILM (Animated),Female,Nina Gantz and Stienette Bosklopper,White,Wander to Wonder,FALSE
 2024,2025,97,SHORT FILM (Animated),Male,Loïc Espuche and Juliette Marquet,White,Yuck!,FALSE
@@ -10958,7 +10958,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2024,2025,97,DIRECTING,Male,Jacques Audiard,White,Emilia Pérez,FALSE
 2024,2025,97,DIRECTING,Female,Coralie Fargeat,White,The Substance,FALSE
 2024,2025,97,DOCUMENTARY (Feature),Female,"Shiori Ito, Eric Nyari and Hanna Aqvilin",Asian,Black Box Diaries,FALSE
-2024,2025,97,DOCUMENTARY (Feature),Male,"Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham",Middle Eastern,No Other Land,TRUE
+2024,2025,97,DOCUMENTARY (Feature),Male,"Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham",White,No Other Land,TRUE
 2024,2025,97,DOCUMENTARY (Feature),Male,"Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPre' Pesmen",White,Porcelain War,FALSE
 2024,2025,97,DOCUMENTARY (Feature),Male,"Johan Grimonprez, Daan Milius and Rémi Grellety",White,Soundtrack to a Coup d'Etat,FALSE
 2024,2025,97,DOCUMENTARY (Feature),Male,"Julian Brave NoiseCat, Emily Kassie and Kellen Quinn",Other,Sugarcane,FALSE
@@ -11102,7 +11102,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2025,2026,98,DIRECTING,Male,Ryan Coogler,Black,Sinners,FALSE
 2025,2026,98,DOCUMENTARY (Feature),Male,Andrew Jarecki and Charlotte Kaufman,White,The Alabama Solution,FALSE
 2025,2026,98,DOCUMENTARY (Feature),Male,"Ryan White, Jessica Hargrave, Tig Notaro and Stef Willen",White,Come See Me in the Good Light,FALSE
-2025,2026,98,DOCUMENTARY (Feature),Female,Sara Khaki and Mohammadreza Eyni,Middle Eastern,Cutting through Rocks,FALSE
+2025,2026,98,DOCUMENTARY (Feature),Female,Sara Khaki and Mohammadreza Eyni,White,Cutting through Rocks,FALSE
 2025,2026,98,DOCUMENTARY (Feature),,Nominees to be determined,,Mr. Nobody against Putin,FALSE
 2025,2026,98,DOCUMENTARY (Feature),Female,"Geeta Gandbhir, Alisa Payne, Nikon Kwantu and Sam Bisbee",Asian,The Perfect Neighbor,FALSE
 2025,2026,98,DOCUMENTARY (Short Subject),Male,Joshua Seftel and Conall Jones,White,All the Empty Rooms,FALSE
@@ -11171,7 +11171,7 @@ year_film,year_ceremony,ceremony,Category,gender,name,Race,film,winner
 2025,2026,98,WRITING (Adapted Screenplay),Male,Written by Paul Thomas Anderson,White,One Battle after Another,FALSE
 2025,2026,98,WRITING (Adapted Screenplay),Male,Screenplay by Clint Bentley & Greg Kwedar,White,Train Dreams,FALSE
 2025,2026,98,WRITING (Original Screenplay),Male,Written by Robert Kaplow,White,Blue Moon,FALSE
-2025,2026,98,WRITING (Original Screenplay),Male,"Written by Jafar Panahi; Script collaborators - Nader Saïvar, Shadmehr Rastin, Mehdi Mahmoudian",Middle Eastern,It Was Just an Accident,FALSE
+2025,2026,98,WRITING (Original Screenplay),Male,"Written by Jafar Panahi; Script collaborators - Nader Saïvar, Shadmehr Rastin, Mehdi Mahmoudian",White,It Was Just an Accident,FALSE
 2025,2026,98,WRITING (Original Screenplay),Male,Written by Ronald Bronstein & Josh Safdie,White,Marty Supreme,FALSE
 2025,2026,98,WRITING (Original Screenplay),Male,"Written by Eskil Vogt, Joachim Trier",White,Sentimental Value,FALSE
 2025,2026,98,WRITING (Original Screenplay),Male,Written by Ryan Coogler,Black,Sinners,FALSE
