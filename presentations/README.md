@@ -24,3 +24,7 @@
 #### Initial Presentation
 
 Our initial presentation has been added to this folder under the title "Demographics of E.G.O.T. Winners." In this presentation, we outlined our research questions, data sources, and planned analyses.
+
+#### Poster Session Presentation
+
+In our poster session presentation, entitled "oscarssowhite," we outline the the work completed on our project thusfar.
