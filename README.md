@@ -1,7 +1,3 @@
 ## Are the #OscarsSoWhite? Analyzing Academy Award Aemographics and #OscarsSoWhite Campaign Efficacy
 
-* Replace content in this file to act as the main index page for your project 
-
-* Change the title and write an overview of your project and description of the content.
-
 This project analyzes whether the #OscarsSoWhite social media campaign produced a lasting shift in Oscar nomination and winner diversity. Using demographic data on over 11,000 Oscar nominees spanning the 1920s through 2026, box office revenue data, and a hand-coded sample of #OscarsSoWhite tweets, we examine how race and gender representation in Academy Award nominations and wins has evolved over time, whether POC-led films perform differently at the box office than white-led films, and how public discourse around the campaign unfolded on social media. Key findings include a measurable post-2016 increase in POC nomination and win rates that has not reverted to pre-campaign levels, consistent box office outperformance by POC-led films across every major Oscar category, and tweet analysis revealing that criticism of the campaign frequently centered on its insufficient advocacy for Asian and Hispanic communities specifically.
