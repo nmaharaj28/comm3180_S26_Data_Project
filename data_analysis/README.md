@@ -19,3 +19,6 @@ In this file, you'll be able to see several graphs relating to a demographic anl
   
 3. #OscarsSoWhite Audience Discussion
 
+This notebook analyzes public discourse around the #OscarsSoWhite movement using a sample of tweets collected between 2015 and 2022 (oscarssowhite_tweets_2015-2022.csv). It uses a hybrid human + AI content coding approach to categorize tweets by stance, then visualizes how that discourse evolved over time. The notebook is organized into two main blocks:
+
+4.  example_twitter_sample_data.ipynb
