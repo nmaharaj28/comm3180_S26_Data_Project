@@ -1,0 +1,3 @@
+## Creative Project
+
+For our creative project, we conducted a series of on-the-street interviews with college students in Philadelphia to understand how young people today perceive the Academy Awards, diversity, and the #OscarsSoWhite social media campaign. The final product is an 11.5 minute long video summarizing the main perceptions and points made by our interviewees. By highlighting a range of perspectives and reactions, the video aims to encourage discussion about diversity, media influence, and cultural change in the film industry.
