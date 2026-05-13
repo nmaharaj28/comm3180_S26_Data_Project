@@ -16,3 +16,6 @@ In this file, you'll be able to see several graphs relating to a demographic anl
    - **Box Office Performance & Lead Race:** Compares domestic and worldwide gross for Best Picture nominees split by lead race (POC vs. White) and era (pre-2016 vs. post-2016). Includes Mann-Whitney U tests and an OLS regression with a `POC × post-2016` interaction term to assess whether diverse-led films earned differently after the Academy's diversity reforms.
 
    - **All Major Categories & Commercial Gap:** Extends the gross-by-race comparison across all major award categories (Best Picture, Actor/Actress in Leading and Supporting roles, Directing). Also includes a year-by-year comparison of Best Picture nominee median gross versus the top 10 highest-grossing films each year, showing whether Oscar films track or diverge from mainstream commercial blockbusters and whether that gap changed after 2016.
+  
+3. #OscarsSoWhite Audience Discussion
+
