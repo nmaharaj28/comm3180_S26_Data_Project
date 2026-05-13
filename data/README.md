@@ -73,3 +73,10 @@ A daily aggregated count of tweets containing oscarssowhite from the 1% Twitter 
 
 * 8: example_twitter_timeline_OSCARS.csv
 A daily count of tweets containing the broader string oscars (not oscarssowhite) from the 1% Twitter sample, covering 2,115 days from 2017–2022. Columns: year, month, day, date, count. Used in example_twitter_sample_data.ipynb as a demonstration of how to work with the archive's date-structured CSV exports. Because the search term is general, this file captures all Oscar-adjacent discussion — ceremonies, nominations, controversies, celebrity coverage — not just diversity-related tweets. Treat it as a measure of overall Oscar public attention rather than #OscarsSoWhite engagement specifically.
+
+
+* 9: google trends folder
+Google trends data on oscar coverage.
+
+* 10: Twitter folder
+Twitter data on oscar coverage. 
